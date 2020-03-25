@@ -1,2 +1,2 @@
 script:
-  -docker run -e CI=true USERNAME/docker-react npm run test
+  -docker run -e CI=true nextdaycode/docker-react npm run test
